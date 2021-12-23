@@ -1,0 +1,33 @@
+2021-12-21 14:42:33,489 :INFO : test_e2e :getting all the card titles
+2021-12-21 14:42:33,510 :INFO : test_e2e :iphone X
+2021-12-21 14:42:33,530 :INFO : test_e2e :Samsung Note 8
+2021-12-21 14:42:33,550 :INFO : test_e2e :Nokia Edge
+2021-12-21 14:42:33,571 :INFO : test_e2e :Blackberry
+2021-12-21 14:42:38,946 :INFO : test_e2e :Entering country name as ind
+2021-12-21 14:42:39,126 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-12-21 15:24:00,206 :INFO : test_e2e :getting all the card titles
+2021-12-21 15:24:00,230 :INFO : test_e2e :iphone X
+2021-12-21 15:24:00,252 :INFO : test_e2e :Samsung Note 8
+2021-12-21 15:24:00,273 :INFO : test_e2e :Nokia Edge
+2021-12-21 15:24:00,587 :INFO : test_e2e :Blackberry
+2021-12-21 15:24:05,978 :INFO : test_e2e :Entering country name as ind
+2021-12-21 15:24:06,171 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-12-22 16:59:23,813 :INFO : test_e2e :getting all the card titles
+2021-12-22 16:59:23,885 :INFO : test_e2e :iphone X
+2021-12-22 16:59:23,922 :INFO : test_e2e :Samsung Note 8
+2021-12-22 16:59:23,959 :INFO : test_e2e :Nokia Edge
+2021-12-22 16:59:23,990 :INFO : test_e2e :Blackberry
+2021-12-22 16:59:29,449 :INFO : test_e2e :Entering country name as ind
+2021-12-22 16:59:29,652 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-12-22 17:02:43,314 :INFO : test_e2e :getting all the card titles
+2021-12-22 20:21:05,171 :INFO : test_e2e :getting all the card titles
+2021-12-22 20:21:05,228 :INFO : test_e2e :iphone X
+2021-12-22 20:21:05,253 :INFO : test_e2e :Samsung Note 8
+2021-12-22 20:21:05,280 :INFO : test_e2e :Nokia Edge
+2021-12-22 20:21:05,303 :INFO : test_e2e :Blackberry
+2021-12-22 20:21:10,730 :INFO : test_e2e :Entering country name as ind
+2021-12-22 20:21:10,953 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
